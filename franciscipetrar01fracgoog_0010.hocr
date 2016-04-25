@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./franciscipetrar01fracgoog_0010.png"; bbox 0 0 3002 4794; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 426 424 1025 508">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 426 424 1025 508">
+     <span class='ocr_line' id='line_1_1' title="bbox 426 424 1025 508; baseline -0.005 -2"><span class='ocrx_word' id='word_1_1' title='bbox 426 427 696 508; x_wconf 77' lang='lat' dir='ltr'>FRANCISCI</span> <span class='ocrx_word' id='word_1_2' title='bbox 748 424 1025 505; x_wconf 79' lang='lat' dir='ltr'><strong>PETRARCAE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 540 713 902 818">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 540 713 902 818">
+     <span class='ocr_line' id='line_1_2' title="bbox 540 713 902 818; baseline -0.011 -2"><span class='ocrx_word' id='word_1_3' title='bbox 540 713 902 818; x_wconf 85' lang='lat' dir='ltr'><strong>EPISTOLAE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 157 953 1268 1128">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 157 953 1268 1128">
+     <span class='ocr_line' id='line_1_3' title="bbox 157 953 1268 1128; baseline -0.015 1"><span class='ocrx_word' id='word_1_4' title='bbox 157 965 288 1128; x_wconf 86' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 355 961 622 1126; x_wconf 80' lang='lat' dir='ltr'>REBUS</span> <span class='ocrx_word' id='word_1_6' title='bbox 679 953 1268 1124; x_wconf 59' lang='grc' dir='ltr'><strong>ΕᾹΜΙΗᾹΒΙΒΙδ1</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 590 1425 874 1555">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 590 1425 874 1555">
+     <span class='ocr_line' id='line_1_4' title="bbox 590 1425 874 1555; baseline -0.021 0"><span class='ocrx_word' id='word_1_7' title='bbox 590 1425 874 1555; x_wconf 76' lang='lat' dir='ltr'><strong>VARIAE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 429 3673 1119 3904">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 429 3673 1119 3904">
+     <span class='ocr_line' id='line_1_5' title="bbox 603 3673 1026 3768; baseline 0.012 -22"><span class='ocrx_word' id='word_1_8' title='bbox 603 3673 887 3766; x_wconf 81' lang='lat' dir='ltr'>FLORENTIAE,</span> <span class='ocrx_word' id='word_1_9' title='bbox 995 3717 1026 3768; x_wconf 77' lang='grc'><strong>·,</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 429 3796 1119 3904; baseline 0.023 -14"><span class='ocrx_word' id='word_1_10' title='bbox 429 3829 550 3895; x_wconf 67' lang='lat' dir='ltr'><strong>wls</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 585 3835 746 3900; x_wconf 63' lang='lat' dir='ltr'>mels</span> <span class='ocrx_word' id='word_1_12' title='bbox 781 3839 1048 3904; x_wconf 71' lang='lat' dir='ltr'>LEMONNOER.</span> <span class='ocrx_word' id='word_1_13' title='bbox 1117 3796 1119 3800; x_wconf 30' lang='lat'><strong><em>¹</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 1506 4794">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 1506 4794">
+     <span class='ocr_line' id='line_1_7' title="bbox 0 0 1506 4794; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 1506 4794; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
